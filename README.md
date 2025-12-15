@@ -1,4 +1,4 @@
-# NXP ARM Platform Boot Process
+# Boot Process
 
 ![NXP Logo](https://img.shields.io/badge/NXP-Arm%20Processors-red)
 ![Linux Kernel](https://img.shields.io/badge/Linux-Kernel-green)
